@@ -24,7 +24,7 @@ setup(
     name='flask-oidc-keycloak',
     description='OpenID Connect extension for Flask - Keycloak',
     long_description=readme,
-    long_description_content_type='text/x-rst',
+    long_description_content_type='text/markdown',
     url='https://github.com/vucanews/flask-oidc-keycloak',
     author='Erica Ehrhardt, Patrick Uiterwijk, Lars Wilhelmsen, Tyler Banks',
     author_email='tyler@vucanews.com',
