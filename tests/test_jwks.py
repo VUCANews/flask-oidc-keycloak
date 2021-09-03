@@ -1,8 +1,8 @@
-from flask_oidc_ex.jwks import retrieve_jwks
+from flask_oidc_keycloak.jwks import retrieve_jwks
 from nose.tools import nottest
 from httplib2 import Http
 
-from flask_oidc_ex.discovery import discover_OP_information
+from flask_oidc_keycloak.discovery import discover_OP_information
 
 jwks_url = 'https://www.googleapis.com/oauth2/v3/certs'
 

@@ -1,6 +1,7 @@
 # Copyright (c) 2014-2015, Erica Ehrhardt
 # Copyright (c) 2016, Patrick Uiterwijk <patrick@puiterwijk.org>
 # Copyright (c) 2019, Lars Wilhelmsen <lars@sral.org>
+# Copyright (c) 2021, VUCA News <tyler@vucanews.com>
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without

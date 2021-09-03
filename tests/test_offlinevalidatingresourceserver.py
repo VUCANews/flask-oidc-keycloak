@@ -1,5 +1,5 @@
 from flask import Flask
-from flask_oidc_ex import OfflineValidatingResourceServer
+from flask_oidc_keycloak import OfflineValidatingResourceServer
 
 
 def test_can_init():

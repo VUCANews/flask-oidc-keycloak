@@ -1,4 +1,4 @@
-from flask_oidc_ex.validation import validate_token
+from flask_oidc_keycloak.validation import validate_token
 from nose.tools import assert_raises
 from python_jwt import generate_jwt, verify_jwt
 from jwcrypto.jwk import JWK, JWKSet

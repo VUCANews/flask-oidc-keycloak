@@ -28,7 +28,7 @@ import logging
 import os.path
 import sys
 
-from flask_oidc_ex import discovery, registration
+from flask_oidc_keycloak import discovery, registration
 
 logging.basicConfig()
 LOG = logging.getLogger("oidc-register")
